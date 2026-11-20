@@ -1,0 +1,12 @@
+# Ham veri (Zenodo'dan indirilir, ~3,7 GB)
+veri/
+*.csv
+
+# Model ve geçici dosyalar
+*.joblib
+__pycache__/
+.ipynb_checkpoints/
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db
